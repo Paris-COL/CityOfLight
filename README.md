@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/images/logo_col.png" alt="City of Light (COL)" width="160">
-</p>
-
 # City of Light (COL)
 
 **A high-performance, Unity-based digital twin of Paris for embodied AI, robotics, and XR research.**
