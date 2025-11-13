@@ -1,0 +1,79 @@
+City of Light (COL) — Unity Builds & 3D Assets License
+======================================================
+
+Scope
+-----
+This license applies to ALL **non-source** artifacts distributed with or through
+this project, including but not limited to:
+compiled Unity builds (e.g., COL.x86_64 and COL_Data/), scenes, prefabs,
+meshes, textures, materials, shaders (compiled), audio, animations, and any
+bundled 3D/visual assets (collectively, the “Assets”).
+
+It does NOT apply to the project’s source code (Python and C# scripts), which is
+licensed separately under **Apache License 2.0** (see LICENSE).
+
+License
+-------
+The Assets are licensed under the **Creative Commons Attribution–NonCommercial
+4.0 International (CC BY-NC 4.0)** license.
+
+Summary (non-binding):
+- **You may** share and adapt the Assets for **non-commercial** purposes, provided
+  you give **appropriate attribution**.
+- **You may not** use the Assets for **commercial** purposes without prior
+  written permission from the copyright holder(s).
+- **No additional restrictions** may be applied that legally prevent others from
+  doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/
+
+Attribution Requirements
+------------------------
+If you use or adapt the Assets in a public product, demo, dataset, video,
+publication, or course material, you must include clear credit. A suitable form is:
+
+City of Light (COL), Paris-COL (2025).
+https://github.com/Paris-COL/COL
+
+If you also cite a paper, a BibTeX entry like the following is acceptable (edit when you
+have the final venue/DOI):
+
+@misc{sarbout2025col,
+  title  = {City of Light (COL): A City-Scale Digital Twin of Paris for Embodied AI and XR Research},
+  author = {Sarbout, Ilias and collaborators},
+  year   = {2025},
+  howpublished = {\url{https://github.com/Paris-COL/COL}}
+}
+
+Commercial Use
+--------------
+Commercial use of the Assets is **not permitted** under CC BY-NC 4.0.
+For commercial licensing inquiries, please contact the maintainers via the
+project’s GitHub Issues page.
+
+Third-Party Components
+----------------------
+Some Assets may incorporate or depend on third-party content subject to their own
+licenses. Where applicable, those licenses are included or referenced in a
+CREDITS/NOTICE file; such terms take precedence for the respective components.
+
+No Warranty
+-----------
+THE ASSETS ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE ASSETS OR THE USE OR OTHER DEALINGS IN THE
+ASSETS.
+
+Relationship to Code License
+----------------------------
+- **Assets** → CC BY-NC 4.0 (this file)
+- **Code (Python/C#)** → Apache License 2.0 (see LICENSE)
+
+Copyright
+---------
+Copyright (c) 2025 Paris-COL contributors
+All rights reserved where not expressly licensed herein.
+
