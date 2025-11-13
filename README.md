@@ -6,8 +6,8 @@
 
 **A high-performance, Unity-based digital twin of Paris for embodied AI, robotics, and XR research.**
 
-[![PyPI (soon)](https://img.shields.io/pypi/v/pycol.svg?label=PyPI&logo=pypi)]()
-[![GitHub release](https://img.shields.io/github/v/release/Paris-COL/COL?logo=github)](https://github.com/Paris-COL/CityOfLight/releases)
+<!-- [![PyPI (soon)](https://img.shields.io/pypi/v/pycol.svg?label=PyPI&logo=pypi)]() -->
+<!-- [![GitHub release](https://img.shields.io/github/v/release/Paris-COL/COL?logo=github)](https://github.com/Paris-COL/CityOfLight/releases) -->
 [![Colab demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qw0uaRGRiITS5r77zU9NpuRp80KHVduO?usp=sharing)
 [![License](https://img.shields.io/badge/Code-Apache%202.0-blue.svg)](LICENSE.md)
 [![Assets License](https://img.shields.io/badge/Assets-CC%20BY--NC%204.0-purple.svg)](LICENSE_ASSETS.txt)
